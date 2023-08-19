@@ -11,5 +11,7 @@
  */
 
 int _printf(const char *format, ...);
+int _strlen(char *s);
+int print_int(int n);
 
 #endif
